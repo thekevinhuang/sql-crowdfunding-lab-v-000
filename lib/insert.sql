@@ -20,8 +20,8 @@ INSERT INTO users (name, age) VALUES ("Zen", 11);
 INSERT INTO users (name, age) VALUES ("Steve", 12);
 
 INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Overman", "Gaming", 140000.00, "11/29/2017", "03/01/2018");
-INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
-INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Rolexa", "Electronics", 7770000.1 , "01/27/2018", "03/29/2018");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Omnics", "Electronics", 9000000000000.0, "02/18/2010", "02/18/2012");
 INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("MacRonald", "food", 50000000, "09/18/2012", "01/09/2017");
 INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Wintel", "Computers", 3838393.3, "10/10/2001", "01/01/2010");
 INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Cutmo Knives", "cookware", 2938233.39, "03/29/1990", "01/04/2000");

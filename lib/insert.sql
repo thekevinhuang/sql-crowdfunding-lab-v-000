@@ -18,3 +18,5 @@ INSERT INTO users (name, age) VALUES ("Pharah", 34);
 INSERT INTO users (name, age) VALUES ("Shane", 14);
 INSERT INTO users (name, age) VALUES ("Zen", 11);
 INSERT INTO users (name, age) VALUES ("Steve", 12);
+
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Overman", "Gaming", 140000.00, "11/29/2017", "03/01/2018");

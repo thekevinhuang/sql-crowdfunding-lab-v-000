@@ -20,3 +20,12 @@ INSERT INTO users (name, age) VALUES ("Zen", 11);
 INSERT INTO users (name, age) VALUES ("Steve", 12);
 
 INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Overman", "Gaming", 140000.00, "11/29/2017", "03/01/2018");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("", "", , "//", "//");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Cutmo Knives", "cookware", 2938233.39, "03/29/1990", "01/04/2000");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Tamasco", "food", 2299103.12, "09/12/2010", "04/12/2011");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("LIEKEA", "furniture", 1999999, "01/01/2001", "07/07/2002");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("LVTV", "Electronics", 100000, "02/22/2002", "03/03/2003");
+INSERT INTO projects (title, category,funding_goal,start_date, end_date) VALUES ("Codebra", "Computers", 1500000000.00 , "05/30/2016", "06/10/2018");
